@@ -1,2 +1,5 @@
 # wibe-avro
-Apache Avro for Zig
+Avro client library implementation in Zig
+
+# Licence
+MIT
